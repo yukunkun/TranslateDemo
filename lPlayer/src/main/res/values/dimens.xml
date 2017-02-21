@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+      <!-- 字幕 -->
+  <dimen name="subtitle_font_size">24sp</dimen>
+  <dimen name="subtitle_setting_font">17dip</dimen>
+  <dimen name="subtitle_setting_width">277.5dip</dimen>
+  <dimen name="subtitle_setting_height">190dip</dimen>
+
+</resources>

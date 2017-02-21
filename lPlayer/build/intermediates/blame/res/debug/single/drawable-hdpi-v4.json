@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/yukun/AndroidStudioProjects/YouDaoTrans/D:\\project\\YouDaoTrans\\lPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_stop_media.png",
+        "source": "/home/yukun/AndroidStudioProjects/YouDaoTrans/D:\\project\\YouDaoTrans\\lPlayer\\src\\main\\res\\drawable-hdpi\\ic_stop_media.png"
+    },
+    {
+        "merged": "/home/yukun/AndroidStudioProjects/YouDaoTrans/D:\\project\\YouDaoTrans\\lPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_seekbar_ratio.png",
+        "source": "/home/yukun/AndroidStudioProjects/YouDaoTrans/D:\\project\\YouDaoTrans\\lPlayer\\src\\main\\res\\drawable-hdpi\\ic_seekbar_ratio.png"
+    },
+    {
+        "merged": "/home/yukun/AndroidStudioProjects/YouDaoTrans/lPlayer/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_seekbar_ratio.png",
+        "source": "/home/yukun/AndroidStudioProjects/YouDaoTrans/lPlayer/src/main/res/drawable-hdpi/ic_seekbar_ratio.png"
+    },
+    {
+        "merged": "/home/yukun/AndroidStudioProjects/YouDaoTrans/lPlayer/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_play_media.png",
+        "source": "/home/yukun/AndroidStudioProjects/YouDaoTrans/lPlayer/src/main/res/drawable-hdpi/ic_play_media.png"
+    },
+    {
+        "merged": "/home/yukun/AndroidStudioProjects/YouDaoTrans/lPlayer/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stop_media.png",
+        "source": "/home/yukun/AndroidStudioProjects/YouDaoTrans/lPlayer/src/main/res/drawable-hdpi/ic_stop_media.png"
+    },
+    {
+        "merged": "/home/yukun/AndroidStudioProjects/YouDaoTrans/D:\\project\\YouDaoTrans\\lPlayer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_media.png",
+        "source": "/home/yukun/AndroidStudioProjects/YouDaoTrans/D:\\project\\YouDaoTrans\\lPlayer\\src\\main\\res\\drawable-hdpi\\ic_play_media.png"
+    }
+]
