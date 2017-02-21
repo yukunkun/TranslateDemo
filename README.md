@@ -1,4 +1,4 @@
-#### 调用有道翻译和百度翻译的接口的demo
+### 调用有道翻译和百度翻译的接口的demo
 #### FloatWindow的一个demo,模仿360的内存清理的火箭发射,这个demo来自于网络
 #### m3u8文件的手动解析,这里主要由于播放解密,手动解析m3u8文件.
 ## 本地播放m3u8
@@ -12,4 +12,4 @@
 #### 东西太多,只能慢慢研究...
 ####
 #### 用到的第三方:
-#### okhttputils:2.6.2,eventbus:3.0.0,android-async-http:1.4.9
+#### [okhttputils:2.6.2](https://github.com/hongyangAndroid/okhttputils),[eventbus:3.0.0](https://github.com/greenrobot/EventBus),[android-async-http:1.4.9](https://github.com/loopj/android-async-http)
